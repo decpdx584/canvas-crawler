@@ -1,6 +1,6 @@
 console.log("hello!")
 let movementDisplay;
-let ctx
+let ctx;
 let game;
 let hero;
 let ogre;
